@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NCP MEMBERS - VIP Task Rewards",
+  "description": "A high-performance VIP-based task and reward platform for Bangladeshi users to earn daily profits through tiered memberships.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
